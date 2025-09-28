@@ -9,6 +9,11 @@
 
 Este repositório contém a documentação do projeto.
 
+## Protótipo
+Foi criado um protótipo para a plataforma **Sabor na Nuvem** através do Figma. O link para visualização pode ser encontrado abaixo:
+
+[Protótipo - Sabor na Nuvem](https://www.figma.com/site/rNCYOO0jFJEyxM1ylvvTK0/Sabor-na-Nuvem?node-id=0-1&t=7DkJyFSTq6wFqOP6-1)
+
 ## 📄 Licença
 
 © 2025 [João Matheus de Oliveira Schmitz]. Todos os direitos reservados.
